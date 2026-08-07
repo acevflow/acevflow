@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/acevflow/acevflow/blob/main/assets/AcevFlux.png?raw=true" alt="Logo" width="100%">
+      <img src="https://github.com/acevflow/acevflow/blob/main/assets/acevflux.png?raw=true" alt="Logo" width="100%">
     </td>
     <td width="75%">
-      <img src="https://github.com/acevflow/acevflow/blob/main/assets/AcevFlux%20Banner.png?raw=true" alt="Banner" width="100%">
+      <img src="https://github.com/acevflow/acevflow/blob/main/assets/acevflux-banner.png?raw=true" alt="Banner" width="100%">
     </td>
   </tr>
 </table>
